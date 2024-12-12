@@ -1,4 +1,3 @@
-// app/[[...sign-in]]/page.js
 'use client';
 import { useUser, SignIn, useAuth } from "@clerk/nextjs";
 import { useState, useEffect } from "react";
